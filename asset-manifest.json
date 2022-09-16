@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/contactManagement/static/css/main.73aa5812.css",
-    "main.js": "/contactManagement/static/js/main.f507ce86.js",
+    "main.js": "/contactManagement/static/js/main.fcf8a3b8.js",
     "static/media/Spinner.gif": "/contactManagement/static/media/Spinner.5b35cef0ce49e2af8525.gif",
     "static/media/no-found.gif": "/contactManagement/static/media/no-found.8a3fe9fd54d21c85d260.gif",
     "static/media/man-taking-note.png": "/contactManagement/static/media/man-taking-note.578e1679689f39584d15.png",
     "index.html": "/contactManagement/index.html",
     "main.73aa5812.css.map": "/contactManagement/static/css/main.73aa5812.css.map",
-    "main.f507ce86.js.map": "/contactManagement/static/js/main.f507ce86.js.map"
+    "main.fcf8a3b8.js.map": "/contactManagement/static/js/main.fcf8a3b8.js.map"
   },
   "entrypoints": [
     "static/css/main.73aa5812.css",
-    "static/js/main.f507ce86.js"
+    "static/js/main.fcf8a3b8.js"
   ]
 }
